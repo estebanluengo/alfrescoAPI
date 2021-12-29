@@ -11,7 +11,6 @@
         <junit.version>4.12</junit.version>
         <commons-io.version>2.4</commons-io.version>
         <chemistry-opencmis-client-impl.version>0.13.0</chemistry-opencmis-client-impl.version>
-        <log4j-core.version>2.2</log4j-core.version>
         <slf4j-simple.version>1.7.5</slf4j-simple.version>
         <org.springframework.version>4.1.6.RELEASE</org.springframework.version>
         <maven.compiler.source>1.7</maven.compiler.source>
